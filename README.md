@@ -1,2 +1,2 @@
 # getting-started
-I`m getting started. Don`t be too critical.
+I'm getting started. Don't be too critical.
